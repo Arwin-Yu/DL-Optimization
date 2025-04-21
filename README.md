@@ -46,7 +46,29 @@ dl_09_RL.ipynb：强化学习算法，用于决策和控制任务。
 
 # 3. 深度学习模型训练方法
 
-learningmethod.ipynb：深度学习模型的训练技巧和最佳实践，包括优化策略、学习率调整和正则化方法。
+此部分包含深度学习模型的训练技巧和最佳实践，以及一些优化策略、学习率调整和正则化方法。
+
+opt_01_SupervisedLearning.ipynb   视频讲解：**[有监督学习](https://www.bilibili.com/video/BV1fS63YzEzv/?spm_id_from=333.1387.collection.video_card.click)**
+ 
+opt_02_UnSupervisedLearning.ipynb  视频讲解：**[无监督学习](https://www.bilibili.com/video/BV1Te61YUEsq/?spm_id_from=333.1387.collection.video_card.click)**
+ 
+opt_03_SelfsupervisedLearning.ipynb  视频讲解：**[自监督学习](https://www.bilibili.com/video/BV1Ww6mYEERk/?spm_id_from=333.1387.collection.video_card.click)**
+ 
+opt_04_SimiSupervisedLearning.ipynb  视频讲解：**[半监督学习](https://www.bilibili.com/video/BV1C9rAYZEzw/?spm_id_from=333.1387.collection.video_card.click&vd_source=72b431c4fa111dc28e774f23d215137c)**
+ 
+opt_05_ContrastiveLearning.ipynb  视频讲解：**[对比学习](https://www.bilibili.com/video/BV1DfrmYAE1a/?spm_id_from=333.1387.collection.video_card.click)**
+ 
+opt_06_TransferLearning.ipynb  视频讲解：**[迁移学习](https://www.bilibili.com/video/BV16Kr6YxEx5/?spm_id_from=333.1387.collection.video_card.click)**
+ 
+opt_07_AdversarialLearning.ipynb  视频讲解：**[对抗学习](https://www.bilibili.com/video/BV1bccmerEAQ/?spm_id_from=333.1387.collection.video_card.click)**
+ 
+opt_08_EnsembleLearning.ipynb  视频讲解：**[集成学习](https://www.bilibili.com/video/BV17mcteBEDH/?spm_id_from=333.1387.collection.video_card.click)**
+ 
+opt_09_FederatedLearning.ipynb  视频讲解：**[联邦学习](https://www.bilibili.com/video/BV1sTcoebE5A/?spm_id_from=333.1387.collection.video_card.click)**
+ 
+opt_10_ReinforcementLearning.ipynb 视频讲解：**[强化学习](https://www.bilibili.com/video/BV18Yw6e8EUr/?spm_id_from=333.1387.collection.video_card.click)**
+ 
+opt_11_Active_Learning.ipynb  视频讲解：**[主动学习](https://www.bilibili.com/video/BV1xg9PYcE2Z/?spm_id_from=333.1387.collection.video_card.click)**
 
 # 项目目标
 
